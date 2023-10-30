@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 19px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+  background-color: antiquewhite;
+  width: 50%;
+  margin: 10px auto;
+  list-style-position: inside;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: orange;
+}
